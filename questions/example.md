@@ -1,6 +1,6 @@
 # Example
 
-**Q:** What is a situation where a `ReferenceError` would occur?
+**Q:** 
 
 > A `ReferenceError` occurs whenever you are trying to access a variable you do not have access to. This could happen because the variable is misspelled or because the variable you are trying to access is out of scope.
 
