@@ -8,8 +8,4 @@
 
 **Q:** How do you iterate through an `array` and how do you iterate through an `object`?
 
-> <details> For Arrays you can utilize a for loop, for...of loop, a while loop, as well as built-in higher order functions. <br><br> Although a for...in loop can be used to iterate through arrays, it is not recommended since it will cause unexpected results. <br><br> To iterate through an object, you would utilize the for...in loop </details>
-
-**Q:** Aside from an array and object, Which other data type will log to the console `'Object'` when evaluating the result of it using the typeof operator.
-
-> <details> When logging the evaluated result of typeof null to the console, you will notice that the string Object is logged. The reasoning behind this is because </details>
+> <details> For Arrays you can utilize a do while loop, for loop, for...of loop, a while loop, as well as built-in higher order functions. <br><br> Although a for...in loop can be used to iterate through arrays, it is not recommended since it will cause unexpected results. <br><br> To iterate through an object, you would utilize the for...in loop. </details>
