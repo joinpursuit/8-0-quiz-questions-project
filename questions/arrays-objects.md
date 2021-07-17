@@ -25,4 +25,16 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 // At position 2, add 2 elements:
 fruits.splice(2, 0, "Lemon", "Kiwi");
 ```
----
+---  
+```
+599  ls
+  600  git clone https://github.com/Jalamang/8-0-quiz-questions-project.git
+  601  cd 8-0-quiz-questions-project/
+  602  cd questions
+  603  touch arrays-objects.md 
+  604  touch functions.md loops.md git.md github.md
+  605  code .
+  606  git add arrays-objects.md
+  607  git commit -m "Arrays && Objects: What, why and how they are use"
+  608  git push
+  ```
