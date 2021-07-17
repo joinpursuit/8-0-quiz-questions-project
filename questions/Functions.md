@@ -12,4 +12,3 @@ Parameter variables are used to import arguments into functions.
 ## What are arguments?
 
 An argument is a value (primitive or object) passed as an input to a function.
-
