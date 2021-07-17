@@ -18,7 +18,7 @@ It's main benefits is it has version control system that provides allows one to 
 - Commit: After you have saved changes made to your files, staged and committed; that means the files are saved in a repo as a version and prepared to bu pushed to github(the online copy of the repository).  
 - Pull: As files are ready to be pushed to github, you have to pull that's making sure you have the up to date version of the online repository. And pull before you make any changes or push.
 
-- Push: Once you're update that's when your local and remote repositories are are syched    
+- Push: Once your files are update that's when your local and remote repositories are are syched.    
 ---
 ```js
  
