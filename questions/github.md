@@ -20,4 +20,8 @@ It's main benefits is it has version control system that provides allows one to 
 
 - Push: Once you're update that's when your local and remote repositories are are syched    
 ---
-
+```js
+ 
+  643  git add github.md
+  644  git commit -m "What is github and it use""  \n"
+```
