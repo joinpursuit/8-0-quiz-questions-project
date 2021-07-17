@@ -26,7 +26,7 @@ const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.splice(2, 0, "Lemon", "Kiwi");
 ```
 ---  
-```
+```js
 
   597 mkdir 8-0-quiz-questions-project
   598 cd 8-0-quiz-questions-project
