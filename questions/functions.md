@@ -18,4 +18,5 @@ functionNamehere(parameter){
 ```js
   620  git add functions.md
   621  git commit -m "Functions: When, why and how they are use"
+  622  git push
   ```
