@@ -16,14 +16,6 @@ functionNamehere(parameter){
 ---  
 
 ```js
-  612  git commit -m "Arrays && Objects: What, why and how they are use"
-  613  git push
-  614  git add arrays-objects.md
-  615  git commit -m "Arrays && Objects: What, why and how they are use"
-  616  git push
-  617  git add arrays-objects.md
-  618  git commit -m "Arrays && Objects: What, why and how they are use"
-  619  git push
   620  git add functions.md
   621  git commit -m "Functions: When, why and how they are use"
   ```
