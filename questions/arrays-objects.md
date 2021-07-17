@@ -27,7 +27,10 @@ fruits.splice(2, 0, "Lemon", "Kiwi");
 ```
 ---  
 ```
-599  ls
+
+  597 mkdir 8-0-quiz-questions-project
+  598 cd 8-0-quiz-questions-project
+  599 ls
   600  git clone https://github.com/Jalamang/8-0-quiz-questions-project.git
   601  cd 8-0-quiz-questions-project/
   602  cd questions
@@ -37,4 +40,6 @@ fruits.splice(2, 0, "Lemon", "Kiwi");
   606  git add arrays-objects.md
   607  git commit -m "Arrays && Objects: What, why and how they are use"
   608  git push
+  609 history | tail -n -10 >> arrays-objects.md
   ```
+
