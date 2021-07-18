@@ -51,7 +51,7 @@ console.log(animals.slice(2,4));
 
 **Q:** Take a look at the following example. Try to get access to one of value in the abject, create and log a greeting sentence.
 ```
-Here is an example:
+Here is the example:
 ```
 ```js
 const studentInfo = {

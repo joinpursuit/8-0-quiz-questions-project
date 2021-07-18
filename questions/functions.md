@@ -33,7 +33,7 @@ Third, function deinitions no not check the number of arguments received.
 Here is a simple example:
 ```
 ```js
-ffunction myFunction(x, y) {
+function myFunction(x, y) {
 
   return y; 
 }
