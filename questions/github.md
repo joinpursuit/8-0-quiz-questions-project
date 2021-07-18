@@ -1,4 +1,4 @@
-# Git
+# GitHub
 **Q:** What added value does Github is contributing in tech community ?
 
 > Github is one of those cloud service providers that ensures a little in collaboration among members working on same projects . 
