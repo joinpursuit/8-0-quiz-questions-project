@@ -2,9 +2,7 @@
 **Q:** What added value does Github is contributing in tech community ?
 
 > Github is one of those cloud service providers that ensures a little in collaboration among members working on same projects . 
-> It acts like a warehouse storing local git repositories that pushed to it by this command **_git push_** after an established link between the local and remote github repositories.  
-
-Not only does it provides improved code writing, increased code Safety, easy code hosting etc, it's has version control system that allows one to keep track of project status and changes made and by who. It provides seamless collaboration without jeopardizing the integrity of the initial project. 
+> It acts like a warehouse storing local git repositories that pushed to it by this command **_git push_** after an established link between the local and remote github repositories.Not only does it provides improved code writing, increased code Safety, easy code hosting etc, it's has version control system that allows one to keep track of project status and changes made and by who. It provides seamless collaboration without jeopardizing the integrity of the initial project. 
 
 
 **Q:** How do you utilize github to request a code review? 
