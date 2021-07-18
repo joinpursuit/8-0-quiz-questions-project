@@ -12,10 +12,11 @@
 **Q:** How does Github workflow works?
 
 > This process entails three main actions, **_commit, pull and push_**: 
-- Commit: After you have saved changes made to your files, staged and committed; that means the files are saved in a repo as a version and prepared to be pushed to github(the online copy of the repository). Then next... 
-- Pull: As files are ready to be pushed to github, you have to pull that's making sure you have the up to date version of the online repository. And pull before you make any changes or push. Then next...
+> - Commit: After you have saved changes made to your files, staged and committed; that means the files are saved in a repo as a version and prepared to be pushed to github(the online copy of the repository). Then next...
 
-- Push: Once your files are update that's when your local and remote repositories are syched.    
+> - Pull: As files are ready to be pushed to github, you have to pull that's making sure you have the up to date version of the online repository. And pull before you make any changes or push. Then next...
+
+> - Push: Once your files are update that's when your local and remote repositories are syched.    
 ---
 ```js
  
