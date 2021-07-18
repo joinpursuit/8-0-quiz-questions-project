@@ -23,6 +23,15 @@ $ git --version
 ---  
 
 
+**Q:** How is git conflict resolved?
+> First, what's git conflict? This is when the same line of a file is modified by different branches or the same file been deleted in a branch but modified in another. In this case, a manual approach is considered as git will not be able to predict whose changes be give the last update/version
+---  
+
+**Q:** What's the difference between git remote and git clone?
+> _git clone_ makes a new repository in a local machine by copying the remote repository's url  whereas _git remote _ establishes a conection configuration entry in _git config_ for a specific repository url
+---  
+
+
 ```js
   636  git add git.md
   637  git commit -m "Git's installation, use version" 
