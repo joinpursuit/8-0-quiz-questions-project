@@ -28,7 +28,7 @@ $ git --version
 ---  
 
 **Q:** What's the difference between git remote and git clone?
-> _git clone_ makes a new repository in a local machine by copying the remote repository's url  whereas _git remote _ establishes a conection configuration entry in _git config_ for a specific repository url
+> _git clone_ makes a new repository in a local machine by copying the remote repository's url  whereas _git remote_ establishes a conection configuration entry in _git config_ for a specific repository url
 ---  
 
 
