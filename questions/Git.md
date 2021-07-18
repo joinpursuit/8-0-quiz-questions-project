@@ -24,5 +24,5 @@ Why does this error occur?
 ```
 **Answer**
 ```
-The error is caused by accessing a directory using an absolute path to files stored in various locations on your machine.
+The error is caused by accessing a directory using an absolute path to files stored in various locations on your machine. This occurs when we try to access the same file located in various directories. 
 ```
