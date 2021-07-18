@@ -12,7 +12,7 @@ function logNamesOfOutOfStockProducts(products) {
   }
 }
 ```
->In the `for...of` statement, `products` is the element and array which essentially makes parameter `undefined`. A simple removal of the letter `s` in the first `products` to `product` will make the computer read it as a different element and allow the test to pass or naming it something completely different.
+>Answer: In the `for...of` statement, `products` is the element and array which essentially makes parameter `undefined`. A simple removal of the letter `s` in the first `products` to `product` will make the computer read it as a different element and allow the test to pass or naming it something completely different.
 
 **Correct Codes**
 ```js
