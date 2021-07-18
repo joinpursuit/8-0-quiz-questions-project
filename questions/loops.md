@@ -1,8 +1,8 @@
 # Loops
 **Q:** What are the iteration structures in javascript and give an example for each?
 
-> Loops are used in programming to execution a set of instructions repeatedly until some condition/s are met. 
-let you  want to print "Hello World" 10 times. You can do this using the example below
+> Loops are used in programming to execution a set of instructions repeatedly until some condition is met. 
+let say you  want to print "Hello World" 10 times. You can do this using the example below
 ```js
 console.log("Hello World\n");
 console.log("Hello World\n");
@@ -15,10 +15,11 @@ console.log("Hello World\n");
 console.log("Hello World\n");
 console.log("Hello World\n");
 ```
-but in an more elegant way, loops can this in just few lines See below
+but in an more elegant way, loops can handle this in just few lines. See below
 
 ## While Loop
-This repeatedly  runs  a code block while a certain evaluates to true. It checks first before executing the code block.
+This repeatedly runs a code block while a certain condition evaluates to true. It checks first before executing a code block.
+
 ```js
 let i=1;
         while(i<=10){
@@ -26,8 +27,9 @@ let i=1;
             i++;
         }
 ```
+
 ## Do While Loop
-This works just like a while loop but that it atleast runs the code block once even if the condition is false. 
+This works just like a while loop but that it atleast runs the code block once even if a condition is falsy. 
 
 ```js
  let i=1;
@@ -38,7 +40,7 @@ This works just like a while loop but that it atleast runs the code block once e
     while(i<=10)
 ```
 ## For Loop
-For loop operates just like while loop, it checks first before executing the code block.
+For loop operates just like while loop, it checks first before executing the code block. 
 
 ```js
 for( let i=1; i<=10; i++){
@@ -47,7 +49,7 @@ for( let i=1; i<=10; i++){
 ```
 
 ## For in Loop
-This is returns index in arrays while in objects it returns key of objects. 
+This returns an index in arrays while in objects, it returns key of objects. Written like this
 
 ```js
 for (variable name in object){
@@ -56,7 +58,7 @@ for (variable name in object){
 ```
 
 ## For of Loop
-This runs through iterable objects and returns values of an array
+This runs through iterable objects and returns values of an array. Written like this
 
 ```js
 for (const element of array) {
@@ -65,7 +67,7 @@ for (const element of array) {
 ```
 
 
-**Q:** When is for loop preferred over while loop?
+**Q:** When is _for loop_ preferred over while loop?
 
 >  For loop is preferred when know the number of iterations to be made. 
 
@@ -94,7 +96,7 @@ for (let i = 0; i < array.length; i++){
 
 **Q:** What other mechanism is available that prevents a loop from running indefinitely other than it condition evaluating to falsy?
 
-> Using one-token statement _**break**_ keyword  does the magic. This stops the execution of the deeply nested loop that's been executed
+> Using one-token statement _**break**_ keyword does the magic. This stops the execution of the deeply nested loop that's been executed
 
 ## For instance
 ```js
@@ -106,4 +108,12 @@ while (1) {
 }
 ```
 
-While loop runs forever in as much as the condition is true. So, in this case it will execute but the  in side the loop, if n is less then 0, the loop stops because of the keyword **break** else it runs the _hello(n)_.
+While loop runs forever in as much as the condition is true. So, in this case it will execute but in side the loop, if n is less than 0, the loop stops because of the keyword **break**: else it executes the _hello(n) function.
+
+```js
+
+  713  git add loops.md
+  714  git commit -m "Loop structures"
+  715  git push
+
+```
