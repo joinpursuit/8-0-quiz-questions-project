@@ -38,23 +38,29 @@ This project will be graded against a rubric. To view the rubric, you can look a
 
 The following is a shorter checklist of the Overview above.
 
-- [ ] Open the [topics.md](./topics.md) file and look over the topics.
+- [x] Open the [topics.md](./topics.md) file and look over the topics.
 
 For each topic:
 
-- [ ] Create a Markdown file in the `questions/` directory with the topic name.
+- [x] Create a Markdown file in the `questions/` directory with the topic name.
 
-- [ ] Add _at least_ three questions to the Markdown file, with answers and an explanation. (For an example, see the [example.md](./example.md) file.)
+- [x] Add _at least_ three questions to the Markdown file, with answers and an explanation. (For an example, see the [example.md](./example.md) file.)
 
-- [ ] Once you're done with a topic, commit your changes.
+[x] Functions
+[x] Arrays & Objects
+[x] Loops
+[x] Git
+[x] GitHub
 
-- [ ] Then, push those changes to GitHub.
+- [x] Once you're done with a topic, commit your changes.
+
+- [x] Then, push those changes to GitHub.
 
 At the very end:
 
-- [ ] Follow the instructions in the [history.md](./history.md) file.
+- [x] Follow the instructions in the [history.md](./history.md) file.
 
-- [ ] Add and commit the changes caused by following the instructions in that file with the following commit message:
+- [x] Add and commit the changes caused by following the instructions in that file with the following commit message:
   ```
   Updated history.md file.
   ```
