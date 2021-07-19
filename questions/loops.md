@@ -32,3 +32,14 @@ function logNamesOfOutOfStockProducts(products) {
   }
 }
 ```
+
+***Question 2:***
+What does the expressions mean in this `for i` loop: `for(let i = 0; i < products.length; i++)`?
+
+>Answer: The beginning expression `let i = 0` can intialize it or declare variables. The condition expression, in this case `i < products.length`, is a boolean type and will run if it is true. The last expression `i++`, is an increment expression and will make the loop increase by 1 everytime the loop runs.
+
+***Question 3:***
+What statement can we use to stop a loop once a certain condition is met?
+
+>Answer: The break statement stops the loop once a condition is met in the loop. 
+
