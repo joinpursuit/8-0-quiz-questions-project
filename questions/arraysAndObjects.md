@@ -1,4 +1,4 @@
-# Example
+# Arrays And Objects
 
 **Q-1:** What is an `array`? Give an example.
 

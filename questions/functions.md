@@ -1,4 +1,4 @@
-# Example
+# Functions
 
 **Q-1:** What is a `return` statement used for?
 
