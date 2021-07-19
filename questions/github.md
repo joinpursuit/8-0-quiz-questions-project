@@ -1,4 +1,6 @@
+
 # Github
+
 **Q:** What do you need to do before cloning a repository into your laptop? And why?
 > You have to go to a directory/folder that is not a git repository. Then go to a directory that will be a parent directory to the respository that you're cloning. When in that parent directory, there shouldn't be another folder with the same name as the repository you're cloning. 
     1. You want to make sure thatit isn't a git directory you're cloning into because it can be confusing to users of the repositories which is the project that youre working on/editing.
