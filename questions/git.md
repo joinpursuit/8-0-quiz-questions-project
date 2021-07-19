@@ -1,4 +1,4 @@
-# Quiz
+# Git Quiz
 ```
 git add example.md
 ```
@@ -39,6 +39,6 @@ git push
 
 <details>
     <summary>Answer</summary>
-    <b><u><i>Push the changes from your local repository to your remote repository.</i></u></b>
+    <b><u><i>Push the changes from your local repository to your remote repository b    wrdddda  with your local repository.</i></u></b>
 </details>
 </br>
