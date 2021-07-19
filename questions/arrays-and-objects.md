@@ -1,4 +1,6 @@
-#Arrays and Objects
+
+# Arrays and Objects
+
 **Q:** What data types can be in an array?
 > **Everything!** Strings, numbers, objects, functions, booleans, (because functions are objects), even sub-arrays.
 ```js
@@ -6,7 +8,7 @@
 ```
 ---
 **Q:** Why would you use an array?
-> Arrays can contain multitudes of data types, and are easily accessed.  Therefore they can be accessed using an index, making arrays easy to work with.
+> Arrays can contain multitudes of data types, and are easily accessed.  Therefore they can be accessed using an index, making arrays easy to work with. <br>
 ```js
 let sample = [1,2,3]
 return array.length
@@ -14,7 +16,8 @@ return array.length
 ```
 ---
 **Q:** How do you manipulate arrays and objects?
-> Common methods are push, pop, shift, and unshift.  With objects you can split. Splice, and slice.
+> Common methods are push, pop, shift, and unshift.  With objects you can split. splice, and slice.
+
 ```js
 let sample = ["string",number, {key:value},[subArray],true,false,NaN,null]
 sample.push("Hi")
