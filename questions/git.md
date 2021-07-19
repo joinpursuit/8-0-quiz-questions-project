@@ -1,0 +1,13 @@
+# git
+
+**Q:** What is git and why is it so important?
+
+> `Git` is an `open source Version Control System`. It is the most used version control system today. As a software that runs locally, our files and their history are stored on our local machines. It works well with github that is an online host like bitbucket that will help us upload our files to the internet. It is very important because it helps keep a record of every single change to files we added and committed to git. Developers can work together more conveniently using these tools. Git makes collaboration easier, allowing changes by multiple people. It is important for developers and non developers as it can keep track of any kind of files. 
+---
+**Q:** Can we use git on our local machine without internet connection?
+
+> Yes, we can use `git` without an internet connection, we will still get the benefit of saved backups and a log of our changes. That means, we can create our project on our local machine and add/commit files. A corporation can have a local network where everyone in the team will be and they will work together and share files. Having many repositories, we can push/pull without any connection. In case there is no local network, they will need to use removable media(external disk) to share repositories. On the same computer, we can pull from other repositories as needed and work correctly. However, using github(or others) allow us store our project on a server so that we can access anywhere and share. Git does the version control, github is a just a good complement. Lastly, as note, in order to use github, we need an internet connection.
+---
+**Q:** What is a `branch` in git and the importance of branches?
+
+> A `branch` is an independent line of development. `Branch` in git is lightweight. `Branches` are very important in git as they come to rescue at many different places during development of a project. They create another line of development that is entirely different or isolated from the main stable master branch (usually the default branch). Developers should follow the branched strategy because in case a feature needs to be removed, it won't be painful. In that case, we just remove the bad branches and keep the good ones without touching the main part. Branches give us freedom to independently work on different modules and merge the modules when we finish developing them. They help the team, which are in different parts of the world, work independently on independent features that would ultimately combine to produce a great project.
