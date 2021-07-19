@@ -5,3 +5,7 @@
 ## What is a pull request?
 
 - A **pull request** allows you to collaborate with others on code that you have created on Github. You are able to discuss any changes, compare codes and fork any changes or suggestions over to your own profile. 
+
+## What is the difference between a git repository and GitHub repository?
+
+- A repository contains all your projects folders and files and each file's version history. A repository initialized with git is a local repository that only you have access to on your computer. However, a GitHub repository is a remote repository that allows others to fork and clone your repository onto their computer and make pull requests.
