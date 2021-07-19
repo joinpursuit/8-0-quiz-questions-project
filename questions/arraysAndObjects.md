@@ -100,6 +100,7 @@ let last = person.fullName.lastName;
 let last = person["fullName"]["lastName"];
 ```
 5. When you use bracket notation, you are allowed to access properties that contain special characters or when the characters in the string contain spaces in between. When you use dot notation, it is faster and a lot more easier to read. However, you won't be able to access the properties that contain special characters. 
+
 6. To display all the keys in the object, you can use "Object.keys()"
 ```Javascript
 Object.keys(person);
