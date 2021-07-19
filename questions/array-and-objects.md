@@ -12,7 +12,7 @@
 
 ```javascript
 const person = { firstName: "Barbara", lastName: "Liskov" };
-person.awards = ["Most Valuable Performer", "Most improved perforemer"];
+person.awards = ["Most Valuable Performer", "Most improved performer"];
 console.log(person.awards[0]);
 ```
 
