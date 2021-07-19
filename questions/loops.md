@@ -13,3 +13,8 @@ for (let i = 0; i < arrayExample.length; i++)
 ## What is an advantage of using a for loop versus a for-of loop?
 
 - The advantage of using a for loop over a for-of loop is that it stops the loop if a certain condition is met.
+
+### If we are using a while loop, the condition continues to be true and we DO NOT increase the value of our number, what will be the outcome of our loop if it continues to run?
+
+- An infinite loop will be created, this will cause the computer to run out of memory, freeze and/or cause an error message. This happens because the loop never changes, the condition continues to be true and so it never needs to come to a stop. 
+
