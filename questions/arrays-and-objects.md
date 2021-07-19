@@ -9,3 +9,14 @@ EXAMPLE:
 const sweaterWeather = [50, 55, 60, 65]
 ```
 - The array above displays that the variable ‘sweaterWeather’ is an array. The values inside of the array are numbers that represent the different temperatures in which it is appropriate to wear a sweater.
+
+## What does an index mean in an array?
+
+The index in the array is the position that the element within the variable falls in. All indexes begin at 0. Therefore, if the length of the array is 6, the index of the last element would be 5.
+
+EXAMPLE:
+```js
+const array = [A, B, C, D, E, F, G]
+```
+
+The length of the array is 6; the index of A is 0, the index of B is 1, the index of C is 2...and so on.
