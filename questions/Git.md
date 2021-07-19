@@ -1,35 +1,39 @@
-# Let's Git it
 
+**Q:** How can you initialize a `git` repository?
 
-**What is Git?**
+<details>
+<summary>Click here to see the answer</summary>
+
+>**Answer:** You can initialize with the command `git init`.
+</details>
+
+----
+**Q:** `Imagine` you just made some changes in your *Visual Studio Code* and you want to add those changes to your file on *Github*.  
+
+*How* can you update your file on *Github* from your `iTerminal` in this case?
+
+<details>
+<summary>Click here to see the answer</summary>
+
+>**Answer:** You will need to enter three commands in order in your iTerminal
+```md
+git add
+git commit -m " your message goes here. "
+git push
+```
+**If** you want to learn more about those three commands, click the link  below
+
+[Learn git commands](https://www.atlassian.com/git/tutorials/saving-changes#:~:text=git%20push%20is%20utilized%20to,more%20abstract%20level%20of%20changes.)
+</details>
+
+---
+**Q:** how can you create a new entry in the git repository's history?
+
+<details>
+<summary>Click here to see the answer</summary>
 
 ```
-Git is a tool. 
-
+git log
 ```
-`Git` is system/software for tracking updates in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. -Wikipedia-
-
-
-
-
-**What does it mean to stage files?**
-
-
-Adding your changes to your local repository before you decide to commit your changes to your global/remote repository
-
-
-#### Here is how to stage your file
-```
-git add <file>
-```
-
-**How do you `push` something?**
-
-```
-git push 
-
-```
-After adding and staging files, we want to <span style="color:yellow">commit</span> so that we can `push` changes to update our files on Github or remote repository
-
-
+</details>
 
