@@ -1,14 +1,15 @@
-# Functions Questions and Answers
+# GitHub
 
-**Q:** 
+**Q:** How are Git and GitHub connected? 
 
-> A 
+> A: GitHub is the face of Git, its interface. One way to see repositories' contents convinientlty.  
+Also a social media for developers, to see each others' projects, contribute, clone, etc.
 
 ---
 
-**Q:** 
+**Q:** Why is GitHub significant to git repositories?
 
-> A 
+> A: It stores the remote version of projects, 
 
 ---
 
