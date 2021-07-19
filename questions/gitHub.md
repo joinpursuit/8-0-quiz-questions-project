@@ -1,4 +1,4 @@
-# Git
+# GitHub
 
 **Q-1:** What is `GitHub`?
 
