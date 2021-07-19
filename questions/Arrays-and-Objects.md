@@ -47,11 +47,11 @@ console.log(newArr);
 </details>
 
 **4. What will be the result of the code below?**
-
+```js
 const person = { firstName: "Barbara", lastName: "Liskov" };
 person.awards = [];
 console.log(person);
-
+```
 
 <details>
 <summary>Click here to see the answer</summary>
