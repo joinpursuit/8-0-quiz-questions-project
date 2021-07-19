@@ -1,4 +1,4 @@
-# FUNCTIONS
+# **FUNCTIONS**
 
 <br>
 <br>
@@ -32,16 +32,16 @@ example:
 
 ## **Q. Why do we use functions?**
 
-> **A.** We use functions to organize small reusable blocks of code.
+> **A.** We can use functions to organize reusable blocks of code.
 
 example:
 ```js
 //Multiply `numbers` smaller than 10 by 2 and divide `numbers` greater than 10 by 2
 function greatOrLessTen(number){
     if( number < 10){
-        multiply(number);
+       return multiply(number);
     }else {
-        divide(number);
+       return divide(number);
     }
 }
 
@@ -53,6 +53,7 @@ function divide(number) {
     return number/2;
 }
 
-greatOrLessTen(5)
+console.log(greatOrLessTen(5));
+//output: 10
 
 ```
