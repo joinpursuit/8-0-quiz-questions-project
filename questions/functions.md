@@ -6,7 +6,7 @@
 
 ---
 
-**Q-2:** What is a JavaScript `function` defined, and why would you want to create one?
+**Q-2:** How is a JavaScript `function` defined, and why would you want to create one?
 
 > A-2: A `function` is a block of code that performs a specific task. It contains code that you might want to use more than once in your code to re-use it, or to call the code at a later time. This saves time from having to type out the code over and over (repeating ourselves), and also makes the entire file take up less lines and easier to read.
 
