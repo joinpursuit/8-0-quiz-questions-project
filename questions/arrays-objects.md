@@ -1,4 +1,4 @@
-# ARRAYS & OBJECTS
+# **ARRAYS & OBJECTS**
 
 <br>
 <br>
@@ -7,7 +7,7 @@
 
 > **A.** You can access elements in an array by using their index.
 
-example.
+example:
 ```js
 const myArr = [1, 2, 3];
 
@@ -21,7 +21,7 @@ console.log(myArr[0])
 
 > **A.** We can find the index of the number being replaced and set it equal to the new number.
 
-example.
+example:
 ```js
 const myArr = [1, 2, 3];
 
@@ -37,6 +37,7 @@ console.log(myArr);
 
 > **A.** The `.join('')` operator can be used to turn arrays into strings.
 
+example:
 ```js
 const myArr = [1, 2, 3];
 
@@ -50,6 +51,7 @@ console.log(myArr.join(''));
 
 > **A.** We can access a `value` in an object by using the `.` operator and `key`
 
+example:
 ```js
 const object = {firstName: 'Sam'};
 
@@ -63,6 +65,7 @@ console.log(object.firstName);
 
 > **A.** We can use the object's `name` followed by the dot `.` operator, the name of the new `key` and set it equal to the `value`.
 
+example:
 ```js
 const object = {firstName: 'Sam'};
 
@@ -78,6 +81,7 @@ console.log(object);
 
 > **A.** We can use the object's `name` followed by the dot `.` operator, the name of the `key` holding the array and the `[index]` of the element in the array.
 
+example:
 ```js
 const object = {firstName: 'Sam', lastName: 'Harris', hobbies: ['Soccer', 'Gaming', 'Cooking']};
 
