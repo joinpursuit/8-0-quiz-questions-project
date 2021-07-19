@@ -1,4 +1,4 @@
-## Question 1. Can you use a "for" Loop without a condition expression? 
+## Question 1. Can you use a "for" loop without a condition expression? 
 ```
 - Yes, Of course you can. An empty condition is taken to evaluate to 1 or True. Use of a break statement needed to exit 
 
@@ -10,7 +10,7 @@ the loop.
 
 a condition before a body is executed and they will NEVER get executed if a condition is false. The only loop that 
 
-will always get executed is the do while loop. The condition is not evaluated until you reach the end of a loop. 
+will always get executed at least once, is the "do while" loop. The condition is not evaluated until you reach the end of a loop. 
 ```
 ## Question 3. What do the following expressions of a for loop represent?
   ```

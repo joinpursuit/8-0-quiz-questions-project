@@ -4,7 +4,7 @@
 
 variable. 
 ```
-## Question 2. Do arrays have methods?
+## Question 2. Do Arrays have methods?
 ```
 - All methods of Objects can be invoked on Arrays. 
 ```
