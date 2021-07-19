@@ -16,7 +16,7 @@ function carParts (doors, tires, windows)
      } 
 ```
 
-- The return value of the function is the product of the parameters “sun” and “moon”. The function will not continue to execute as long as that return statement is in the function.
+- The return value of the function is the product of the parameters “sun”and “moon”. The function will not continue to execute as long as that return statement is in the function.
 
 ## Given the following function, properly invoke the function and log out the return.
 ```js
