@@ -31,6 +31,18 @@ $ git --version
 > _git clone_ makes a new repository in a local machine by copying the remote repository's url  whereas _git remote_ passes a connection configuration entry in _git config_ for a specific repository url
 ---  
 
+**Q:** What is git pull?
+> Git pull is about reconciling local and the remote respositories. This is accomplished by retrieving (fetching) the data first and then merging them for the latest version to be in both. And git pull is done by the two commands below in the order they are put.
+
+```js
+git fetch
+git merge
+
+```
+![git pull](https://www.simplilearn.com/ice9/free_resources_article_thumb/pull-command.JPG)
+
+---  
+
 
 ```js
   636  git add git.md
