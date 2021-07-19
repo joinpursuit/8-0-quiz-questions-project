@@ -20,3 +20,16 @@ const array = [A, B, C, D, E, F, G]
 ```
 
 The length of the array is 6; the index of A is 0, the index of B is 1, the index of C is 2...and so on.
+
+## Which of the following is an example of an array and which is an example of an object?
+
+```js
+let clothes = ["shirt", "jeans", "skirt", “tank top”];
+
+let clothing = {
+  cute: true,
+  wearable: "yes",
+  name: "shirt",
+};
+```
+As mentioned above, arrays use square brackets while objects use curly brackets. Objects also contain keys and their values. Therefore, the variable: clothes is an array and the variable clothing is an object.
