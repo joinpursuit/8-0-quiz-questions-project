@@ -31,7 +31,3 @@
     A parameter is just a place holder for an arguement. An argument is a value that gets passed in to the function. 
 </details>
 </br> 
-
-why do objects represent a special data type and arrays are a special type of variables?
-
-objects represent things and with propreties and arrays create/store lists of data in a single variable
