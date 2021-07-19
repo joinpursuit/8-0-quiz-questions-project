@@ -1,12 +1,12 @@
 # Functions Questions and Answers
 
-**Q:** 
+**Q:** How to differentiate between methods that are destructive and non-destructive?
 
 > A 
 
 ---
 
-**Q:** 
+**Q:** Differences between .splice and .slice?
 
 > A 
 
