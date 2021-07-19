@@ -8,7 +8,7 @@
 
 **Q:** How does one unstage files? And why would we use this command?
 
-> A: "git rm --cached" unstages files after "git add", it is useful to undo changes to your local repositories.
+> A: "git rm --cached" unstages files after "git add", it is useful to undo changes to your local repositories.q
 
 ---
 
