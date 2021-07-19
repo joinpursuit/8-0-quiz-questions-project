@@ -1,5 +1,8 @@
 # FUNCTIONS
 
+<br>
+<br>
+
 ## **Q. How do you define a function?**
 
 > **A.** You can define a function using the keyword `function` followed by the function `name` and parameters `()` and the function body `{}`
@@ -12,6 +15,8 @@ example:
  }
 
 ```
+<br>
+<br>
 
 ## **Q. How do we call a function?**
 
@@ -22,6 +27,8 @@ example:
 //calls the `name()` function
  name()
 ```
+<br>
+<br>
 
 ## **Q. Why do we use functions?**
 
