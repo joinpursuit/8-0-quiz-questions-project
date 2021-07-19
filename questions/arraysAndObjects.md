@@ -6,7 +6,7 @@
 In the example below, "hello" is the first element of the `array` at index position 0. Arrays use square brackets.
 
 ```js
-const arr = ["hello", "world", "Pursuit"]
+const arr = ["hello", "world", "Pursuit"];
 ```
 
 ---
@@ -31,7 +31,7 @@ let pen = {
 > A-3: .join() method - converts the array to a string. The string will have all the elemnts in the array, separated by a comma. Alternatively, you can pass in a separator as an _argument_. By passing in different separators as _arguments_, that will change the output of the array being logged in the console, shown below:
 
 ```js
-let arr = ["hello", "world", "Pursuit"]
+let arr = ["hello", "world", "Pursuit"];
 
 console.log(arr.join());  // will log: 'hello,world,Pursuit'
 
