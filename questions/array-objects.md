@@ -1,6 +1,8 @@
 ## Question 1. Why do Objects represent a special data type and Arrays are a special type of variable?
 ```
-- Objects represent "things" with properties (characteristics) while Arrays create and store lists of data in a single variable. 
+- Objects represent "things" with properties (characteristics) while Arrays create and store lists of data in a single 
+
+variable. 
 ```
 ## Question 2. Do arrays have methods?
 ```
