@@ -17,10 +17,10 @@ const arr = ["hello", "world", "Pursuit"];
 
 ```js
 let pen = {
-    type: 'fountain';
-    color: 'green';
-    inkColor: 'sapphire';
-    numberOfPens: 1;
+    type: 'fountain',
+    color: 'green',
+    inkColor: 'sapphire',
+    numberOfPens: 1
 }
 ```
 
