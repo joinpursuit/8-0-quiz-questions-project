@@ -1,4 +1,4 @@
-# Example
+# Loops
 
 **Q:** What is for-in loop in Javascript? 
 
