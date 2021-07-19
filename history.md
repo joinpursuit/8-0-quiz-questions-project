@@ -59,3 +59,4 @@ The command above will add the last 50 lines you ran to the end of this file. If
   937  git log 
   938  git push 
   939  cd ..
+ history
