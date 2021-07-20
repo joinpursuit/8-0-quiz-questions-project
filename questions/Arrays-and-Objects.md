@@ -8,7 +8,7 @@ Arrays are used in JavaScript to store a sequence of values.
 ```
 JavaScript arrays can contain numbers, strings, boolean, objects and other arrays.
 ```
-> ## **Values in an array are called___.  How are they notated?**
+> ## **Values in an array are called ___ .   How are they notated?**
 ``` 
 Values in an array are called elements.  Elements are defined within square brackets, separated by a comma.
 
