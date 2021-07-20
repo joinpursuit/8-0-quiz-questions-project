@@ -11,4 +11,4 @@
 
 * ###  What is the purpose of cloning a repository?
 
-  * Cloning allows you to transfer a remote repository from GitHub and creates a synched version on your personal computer. This process allows you to make any changes to the forked repository. 
+  * Cloning allows you to transfer a remote repository from GitHub and creates a synched version on your personal computer. This process allows you to make any changes to the forked repository. Once the remote repository has been cloned you can work on it just the way you would on your local repository.
