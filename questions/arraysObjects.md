@@ -50,7 +50,7 @@ let storage = {
         },
         "bottom drawer": "pens and markers"
   },
-  "bigChest": ["backpack",  
+  "cardboardBox": ["backpack",  
               "pencilCase",
               ["pen", "pencil", "marker"]]     
 };
@@ -58,6 +58,6 @@ let storage = {
 ```
 > You would log the string with 
 ```js 
-console.log(storage.bigChest[2][0]); 
+console.log(storage.cardboardBox[2][0]); 
 ```
-
+> Since both storage and cardboardBox are objects, they are accessed through dot notation while the two arrays within cardboardBox are accessed through bracket notation.
