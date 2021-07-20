@@ -1,14 +1,14 @@
 # gitHub
 
 
-* ### Describe the process of sharing a local repository to gitHub. 
+* ### What is the difference between Git and GitHub? 
   
-  * To share a local repository  
+  * The most obvious difference is where the programs are located, Git is on your personal computer whereas GitHub is a an online srvice that can be accessed only if you are connected to the internet. To access Git you don't have to be connected to the internet. You can easily manage git repositories on your local machine without using GitHub, however if you want to share your local repositories with others GitHub is a reliable platform.   
 
-* ### Describe the process if you want to contribute to an existing repository on gitHub. 
+* ### If you wish to collaborate or contribute to a remote repository would forking alone enable you to collaborate or contribute? 
 
-  * answer
+  * Forking a repository allows you to make a copy of the forked repository to your GitHub account. But to contribute or collaborate you have to create a __pull request__ to suggest any changes to an existing repository without changing it. Once the __pull request__ is submitted the owner of the original repository can review the changes suggested to determin wheter to accept or decline the codes. 
 
-* ### Question 
+* ###  What is the purpose of cloning a repository?
 
-  * answer
+  * Cloning allows you to transfer a remote repository from GitHub and creates a synched version on your personal computer. This process allows you to make any changes to the forked repository. 
