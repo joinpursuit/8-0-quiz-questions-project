@@ -9,13 +9,7 @@ history | tail -n 50 >> history.md
 The command above will add the last 50 lines you ran to the end of this file. If something goes wrong, feel free to delete everything below the three dashes below.
 
 ---
- 1078  touch accumalator
- 1079  ls
- 1080  cd accumalator
- 1081  rm accumalator
- 1082  mkdir accumalator
- 1083  cd accumalator
- 1084  code .
+  1084  code .
  1085  touch reference.js
  1086  touch accumalator.js
  1087  rm reference.js
@@ -59,3 +53,9 @@ The command above will add the last 50 lines you ran to the end of this file. If
  1125  git push
  1126  history | tail -n 50 >>history.md
  1127  history | tail -n 100 >>history.md
+ 1128  history | tail -n 50 >>history.md
+ 1129  git add .
+ 1130  git commit -m "history"
+ 1131  git push
+ 1132  git add .
+ 1133  git commit -m "Updated history.md file"
