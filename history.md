@@ -36,3 +36,13 @@ The command above will add the last 50 lines you ran to the end of this file. If
   566  code .
   567  cd Desktop/pursuit-projects/8-0-quiz-questions-project
   568  code .
+  569  history | tail -n 50 >> history.md
+  570  git status
+  571  git add .
+  572  git status
+  573  git commit -m "completed 2 of 5 topics"
+  574  git push
+  575  ls
+  576  cd questions
+  577  ls
+  578  touch loops.md
