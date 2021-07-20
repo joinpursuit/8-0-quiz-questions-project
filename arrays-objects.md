@@ -33,7 +33,7 @@
 
 * ### How can we access the last elemnet of an array ?
 
-  * We can easily access the elemnets of an array by using the index number but what if the array consists of 500 elements. The most effeicient way to access the last element of an array we can use **_index array.length - 1_** 
+  * We can easily access the elemnets of an array by using the index number but what if the array consists of 500 elements. The most efficient way to access the last element of an array we can use **_index array.length - 1_**. This method allows us to access the last elemnet because the length of the array is one more than the number of inidices (as the index starts at 0) in an array, when subtracted by 1 it gives us the value of the last index.
   
   ```js
   let countries = ["Italy", "Vietnam", "Greece", "Thailand", "China", "Switzerland"];

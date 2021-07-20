@@ -2,9 +2,9 @@
 
 * ### Explain loops (for non-coders != dummies).
   
-  *  If you were to sing the nursery rhyme "Five little monkeys on the bed" but instead of five monkeys if there were 100 monkeys, the first line would start as "100 little monkeys jumping on the bed" till we came to "1 little monkey jumping on the bed". If we had to wirte the nursery rhyme in code using loops we could write that using just one sentence, 100 little monkeys jumping on the bed then subtract 1 each time till there are no more monkeys left. Loops allows us to repeat the code till it reaches the end value. 
+  *  If you were to sing the nursery rhyme "Five little monkeys jumping on the bed" but instead of five monkeys if there were 100 monkeys, the first line would start as "100 little monkeys jumping on the bed" till we came to "1 little monkey jumping on the bed". If we had to wirte the nursery rhyme in code using loops we could write that using just one sentence, 100 little monkeys jumping on the bed then subtract 1 each time till there are no more monkeys left. Loops allows us to repeat the code till it reaches the end value. 
 
-     Below is an example of "100 little fish swimming in the sea" (used fish instead of monkeys as it is the same singular or plural) 
+     Below is an example of "100 little fish swimming in the sea" (used fish instead of monkeys as it is the same, singular or plural) 
 
      ```JS
      let fish = 100;
