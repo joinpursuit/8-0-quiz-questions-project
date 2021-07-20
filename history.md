@@ -124,3 +124,35 @@ The command above will add the last 50 lines you ran to the end of this file. If
   449  git commit -m "updates github questions"
   450  git push
   451  cd ..
+
+
+```
+  748  cd documents
+  749  cd Pursuit-Github-Lab
+  750  cd 8-0-quiz-questions-project
+  751  code .
+  752  cd questions
+  753  git add arrays-\&-objects.md
+  754  git commit -m "updated question & answer"
+  755  git push
+  756  code .
+  757  cd ..
+  758  cd questions
+  759  git add functions.md
+  760  git commit -m "updated question & answer"
+  761  git push
+  762  code .
+  763  git add git.md
+  764  git commit "updated question & answer"
+  765  git commit -m "updated question & answer"
+  766  git push
+  767  code .
+  768  git add github.md
+  769  git commit -m "updated question & answer"
+  770  git push
+  771  code .
+  772  git add loops.md
+  773  git commit -m "updated question & answer"
+  774  git push
+  775  cd ..
+  ```
