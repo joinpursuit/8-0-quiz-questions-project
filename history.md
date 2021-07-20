@@ -19,6 +19,10 @@ The command above will add the last 50 lines you ran to the end of this file. If
   447  touch questions/functions.md
   448  code functions.md
 
+
+
+
+
   552  cd Desktop/pursuit-projects/8-0-quiz-questions-project
   553  code .
   554  git status
@@ -46,3 +50,38 @@ The command above will add the last 50 lines you ran to the end of this file. If
   576  cd questions
   577  ls
   578  touch loops.md
+  579  history | tail -n 50 >> history.md
+  580  git status
+  581  git add .
+  582  git status
+  583  git add .
+  584  git status
+  585  git commit -m "completed 3 of 5 topics"
+  586  git push
+
+
+
+
+
+  605  cd Desktop/pursuit-projects
+  606  ls
+  607  cd 8-0-quiz-questions-project
+  608  code .
+  609  cd questions
+  610  touch git.md
+  611  git status
+  612  git add git.md
+  613  git status
+  614  git commit -m "completed 4 of 5 topics"
+  615  git push
+  616  history | tail -n 50 >> history.md
+  617  ls
+  618  touch github.md
+  619  git status
+  620  git add github.md
+  621  git status
+  622  git commit -m "completed 5 of 5 topics"
+  623  git push
+  624  history | tail -n 50 >> history.md
+  625  cd ..
+  626  history | tail -n 50 >> history.md
