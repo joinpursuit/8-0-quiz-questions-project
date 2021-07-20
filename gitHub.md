@@ -3,11 +3,11 @@
 
 * ### What is the difference between Git and GitHub? 
   
-  * The most obvious difference is where the programs are located, Git is on your personal computer whereas GitHub is a an online srvice that can be accessed only if you are connected to the internet. To access Git you don't have to be connected to the internet. You can easily manage git repositories on your local machine without using GitHub, however if you want to share your local repositories with others GitHub is a reliable platform.   
+  * The most obvious difference is where the programs are located, Git is on your personal computer whereas GitHub is a an online service that can be accessed only if you are connected to the internet. To access Git you don't have to be connected to the internet. You can easily manage git repositories on your local machine without using GitHub, however if you want to share your local repositories with others, GitHub is a reliable platform.   
 
 * ### If you wish to collaborate or contribute to a remote repository would forking alone enable you to collaborate or contribute? 
 
-  * Forking a repository allows you to make a copy of the forked repository to your GitHub account. But to contribute or collaborate you have to create a __pull request__ to suggest any changes to an existing repository without changing it. Once the __pull request__ is submitted the owner of the original repository can review the changes suggested to determin wheter to accept or decline the codes. 
+  * Forking a repository allows you to make a copy of a repository to your GitHub account. But, to contribute or collaborate you have to create a __pull request__ to suggest any changes to an existing repository without changing it. Once the __pull request__ is submitted the owner of the original repository can review the changes suggested to determine whether to accept or decline the codes or changes. 
 
 * ###  What is the purpose of cloning a repository?
 
