@@ -12,7 +12,7 @@ GitHub is a Git repository hosting service that provides a Web-based graphical i
 
 Ex:  mkdir newFolder
 
-NewFolder is now the name of the new directory. 
+newFolder is now the name of the new directory. 
 
 ```
 > ## **To make a new file within a folder, which command do we use?**
@@ -34,6 +34,7 @@ Will change the directory into the defined folder, in this case, 'newFolder'.
 The change directory command, or `cd ~`, can also be used to bring us back to our home location on the command line.
 
 Ex: cd ~
+
 will bring us back to 'home' , as evidenced by the ~ symbol 
 
 'cd ..` is used to move into the previous directory, one folder at a time.
