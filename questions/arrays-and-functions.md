@@ -8,7 +8,7 @@
 
 **Q:** What will be the outcome of the following code?
 
-```
+```js
 const bP = ['🍌','🎉'];
 const partyTime = ['🎂'];
 
@@ -29,7 +29,7 @@ bananaParty(bP);
 
 **Q:** What will be the outcome of the following code?
 
-```
+```js
 const bP = ['🍌','🎉' ] ;
 let bananaParty = (bP) =>
 {
@@ -51,8 +51,10 @@ still has an <br> `index position of [2]`. <br> Since `'🎂'` is in that index 
 `=>` is an arrow function expression that treats ( ) before it as a parameter and everything between { } as an expression.
 
 ---
+
 **Q:** What will be the outcome of the following code?
-```
+
+```js
 const bP = [
   { emojis: [{ banana: "🍌", party: "🎉", partyTime: "🎂" }] },
   {
