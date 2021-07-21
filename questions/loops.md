@@ -12,3 +12,8 @@ There are three (optional) expressions in a for loop. Initialization, condition 
 A for loop will continue until it evaluates to false. 
 ```
 
+### 3) Describe a while loop. 
+
+```
+A while loop repeats until a specific condition evaluates to ‘true’. 
+```
