@@ -12,13 +12,16 @@
 **Bonus:** What is the difference between a parameter and an argument? Identify them.
 
     ```js
-    const name = "Poppy";
-    const age = 4;
 
-    function printNameAndAge(animalName, animalAge) {
-        console.log(`${name} is ${age} years old.`);
-    }
+        const name = "Poppy";
+        const age = 4;
 
-    printNameAndAge(name, age)
+        function printNameAndAge(animalName, animalAge) {
+            console.log(`${name} is ${age} years old.`);
+        }
+
+        printNameAndAge(name, age)
+    
     ```
+
 >Ans: A parameter is what is inside the function and describes "cases" with that functions definitions. Parameters and arguments do not need to have the same name.
