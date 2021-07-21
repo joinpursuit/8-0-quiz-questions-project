@@ -1,8 +1,8 @@
 # Topic: Git
 
 - Question One
-    - What are the three important git commands in order to save your work to the cloud?
+    - How do you check if your code is `staged` or `unstaged`?
 - Question Two
     - How do you create a repository in git?
 - Question Three
-    - What is the purpose of the command "git clone"?
+    - What is the purpose of the command `git clone`?
