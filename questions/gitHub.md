@@ -6,11 +6,20 @@
 The difference is, git is a technology, a Version Control System (VCS) that lets you manage and keep track of one's source code history, GitHub is a cloud-based hosting service company that stores your git repositories. Microsoft purchased GitHub in 2016.
 ```
 
+
+
 ### 2) Name a version control application and how it relates to GitHub.
 
 ```
 git is a version controlled application, the GitHub is a site based around how the git application works.
 ```
+
+### 3) Describe what GitHub is.
+
+```
+Github is a cloud based, code hosting and version control platform, as well as an open source community where people collaboration together on open source projects.
+```
+
 
 
 
