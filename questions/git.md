@@ -9,3 +9,8 @@ CLI stands for Command Line Interface , is a command line program that accepts t
 The terminal is the actual interface to the console that one can type and execute text based commands.
 ```
 
+### 2) Describe what git does.
+
+```
+git is a Version Control System (VCS) that records changes to a file or set of files over time. It is used to coordinate work projects, changing a folder into a repository that can be used to track changes in that file. 
+```
