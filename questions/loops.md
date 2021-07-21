@@ -6,3 +6,9 @@
 There are three (optional) expressions in a for loop. Initialization, condition statement and increment.
 ```
 
+### 2) What loop repeats until a specified condition evaluates to ‘false’ ?
+
+```
+A for loop will continue until it evaluates to false. 
+```
+
