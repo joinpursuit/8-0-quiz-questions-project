@@ -1,5 +1,6 @@
 ## Arrays & Objects:
 
+
 ### 1) What is a multidimensional array ?
 
 ```
@@ -12,3 +13,8 @@ Multidimensional arrays are arrays that contain arrays as their elements. If an 
 The indexing pattern of using brackets '[ ]' with the desired index remains the same. However, if one want to access elements in an array within an array, we must then index again into that.
 ```
 
+### 3) How would someone access a value from an object ?
+
+```
+In JavaScript there are three ways to access the properties of an object, dot property, square brackets property and object destructuring.
+```
