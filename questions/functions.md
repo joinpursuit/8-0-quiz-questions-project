@@ -20,7 +20,7 @@ Is what will be printed to the console. This is due to the variable being assign
 
 ---
 
-**Q** What will be the outcome of the following code?
+**Q:** What will be the outcome of the following code?
 
 ```
 function bP(a, b) {
@@ -36,7 +36,7 @@ This is due to the variable being assigned to x, then to y but with .charAt(0) w
 
 ---
 
-**Q** What will be the outcome of the following code?
+**Q:** What will be the outcome of the following code?
 
 ```
 

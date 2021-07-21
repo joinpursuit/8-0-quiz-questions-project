@@ -20,7 +20,7 @@ You can commit by using the command-line input `git commit -m "comment here"`.
  `git log`
 
  ---
- **Q** How can you clone your repository from github onto your local machine?
+ **Q:** How can you clone your repository from github onto your local machine?
 
  > Assuming you have git installed, open your terminal, navigate to your git and change directories to the one you want to place your clone in. <br>
  Then login to your Github account, click on your icon at the top right, click on your repositories, navigate to the desired repository, and click on it. <br>
