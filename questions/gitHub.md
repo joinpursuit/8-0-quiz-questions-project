@@ -1,6 +1,7 @@
 # Topic: GitHub
 
 **Question One** What is the difference between git and GitHub?
+>Ans: Git is a VCH or (version control history) and helps you manage your code/code history without use of the internet. GitHub is a company and a cloud based online repository that allows other developers to view and contribute to each others code. 
 
 **Question Two** What is a commit message and how does it help?
 
