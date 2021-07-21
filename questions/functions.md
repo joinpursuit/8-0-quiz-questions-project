@@ -16,3 +16,13 @@ Returns produce a new value from the function. To use that value, we have to cap
 Side effects; a function has ‘side effect’ when it affects something outside of its own scope. One example is changing the value of a variable that was defined outside the function.
 Because of referencing the variable directly by name, and because ‘said variable’ was declared outside the function, it can affect the value. Sometimes you want to do this on purpose, it is better to fix your code so that it doesn't do this.
 ```
+
+### 3) Summarize scope for variables inside and outside of functions.
+
+```
+Think of scope as a sort of hierarchy, about where variables are accessible and where they are not. The takeaway here is that variables declared in a function are only accessible inside that function. Variables declared outside a function are called ‘global’ and they can be accessed and modified from any function.
+
+A variable declared inside a function has ‘local’ scope, and a variable not declared inside a function has ”global” scope. So a variable with “local” scope is only available inside that function. A variable with “global” scope is available inside or outside the function.  
+
+If we create a variable inside a function with the same name as a global variable - the function will only be aware of the local one. This, however, will not change the value of the global variable. Also If we have a function inside of a function, the rules still apply, but now we have more than just two scopes. 
+```
