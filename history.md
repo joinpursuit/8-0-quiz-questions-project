@@ -59,3 +59,153 @@ The command above will add the last 50 lines you ran to the end of this file. If
   696  git commit -m "added to gitHub questions to file folder"
   697  git push .
   698  ..
+  664  ls
+  665  8-0-quiz-questions-project
+  666  git add .
+  667  git commit -m "questions finalized. Begin adding to file"
+  668  git push .
+  669  code .
+  670  ls
+  671  cd questions
+  672  touch functions.md
+  673  ls
+  674  8-0-quiz-questions-project
+  675  ..
+  676  git add .
+  677  git commit -m "added the functions questions"
+  678  git push .
+  679  ls
+  680  cd questions
+  681  touch arrays&objects.md
+  682  touch arrays.md
+  683  git add .
+  684  git commit -m "added the arrays questions to questions folder"
+  685  git push .
+  686  touch loop.md
+  687  git add .
+  688  git commit -m "added the loop question to the quesions folder"
+  689  git push
+  690  touch git.md
+  691  git add .
+  692  git commit -m "added the git questions"
+  693  git push
+  694  touch gitHub.md
+  695  git add .
+  696  git commit -m "added to gitHub questions to file folder"
+  697  git push .
+  698  ..
+  699  history | tail -n 50 >> history.md
+  700  git add .
+  701  git commit -m "updated history.md file"
+  702  git push
+  703  ls
+  704  cd desktop
+  705  ls
+  706  cd
+  707  cd desktop/pursuit
+  708  ls
+  709  8-0-quiz-questions-project
+  710  ls
+  711  git add .
+  712  git commit -m "added a few questions to loops.md in questions folder"
+  713  git push
+  664  ls
+  665  8-0-quiz-questions-project
+  666  git add .
+  667  git commit -m "questions finalized. Begin adding to file"
+  668  git push .
+  669  code .
+  670  ls
+  671  cd questions
+  672  touch functions.md
+  673  ls
+  674  8-0-quiz-questions-project
+  675  ..
+  676  git add .
+  677  git commit -m "added the functions questions"
+  678  git push .
+  679  ls
+  680  cd questions
+  681  touch arrays&objects.md
+  682  touch arrays.md
+  683  git add .
+  684  git commit -m "added the arrays questions to questions folder"
+  685  git push .
+  686  touch loop.md
+  687  git add .
+  688  git commit -m "added the loop question to the quesions folder"
+  689  git push
+  690  touch git.md
+  691  git add .
+  692  git commit -m "added the git questions"
+  693  git push
+  694  touch gitHub.md
+  695  git add .
+  696  git commit -m "added to gitHub questions to file folder"
+  697  git push .
+  698  ..
+  699  history | tail -n 50 >> history.md
+  700  git add .
+  701  git commit -m "updated history.md file"
+  702  git push
+  703  ls
+  704  cd desktop
+  705  ls
+  706  cd
+  707  cd desktop/pursuit
+  708  ls
+  709  8-0-quiz-questions-project
+  710  ls
+  711  git add .
+  712  git commit -m "added a few questions to loops.md in questions folder"
+  713  git push
+  664  ls
+  665  8-0-quiz-questions-project
+  666  git add .
+  667  git commit -m "questions finalized. Begin adding to file"
+  668  git push .
+  669  code .
+  670  ls
+  671  cd questions
+  672  touch functions.md
+  673  ls
+  674  8-0-quiz-questions-project
+  675  ..
+  676  git add .
+  677  git commit -m "added the functions questions"
+  678  git push .
+  679  ls
+  680  cd questions
+  681  touch arrays&objects.md
+  682  touch arrays.md
+  683  git add .
+  684  git commit -m "added the arrays questions to questions folder"
+  685  git push .
+  686  touch loop.md
+  687  git add .
+  688  git commit -m "added the loop question to the quesions folder"
+  689  git push
+  690  touch git.md
+  691  git add .
+  692  git commit -m "added the git questions"
+  693  git push
+  694  touch gitHub.md
+  695  git add .
+  696  git commit -m "added to gitHub questions to file folder"
+  697  git push .
+  698  ..
+  699  history | tail -n 50 >> history.md
+  700  git add .
+  701  git commit -m "updated history.md file"
+  702  git push
+  703  ls
+  704  cd desktop
+  705  ls
+  706  cd
+  707  cd desktop/pursuit
+  708  ls
+  709  8-0-quiz-questions-project
+  710  ls
+  711  git add .
+  712  git commit -m "added a few questions to loops.md in questions folder"
+  713  git push
