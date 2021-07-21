@@ -9,31 +9,67 @@ history | tail -n 50 >> history.md
 The command above will add the last 50 lines you ran to the end of this file. If something goes wrong, feel free to delete everything below the three dashes below.
 
 ---
+  546  cd ~
+  547  Desktop/pursuit/module1/Week4/Quiz-Project-07-15-21
+  548  ls
+  549  8-0-quiz-questions-project
+  550  ls
+  551  questions
+  552  ls
+  553  touch functions.md
+  554  ls
+  555  git status
+  556  git add functions.md
+  557  git status
+  558  git commit -m "Topic on Functions for JavaScript"
+  559  git status
+  560  git push
+  561  git status
+  562  cd ..
+  563  code .
+  564  node run functions.md
+  565  cd questions
+  566  node run functions.md
+  567  node functions.md
+  568  git status
+  569  git add
+  570  git add functions.md
+  571  git status
+  572  git commit -m " Three questions focusing on the Function topic along with answers to said questions to help those learning from a beginners mindset."
+  573  git status
+  574  git push
+  575  git status
+  // Lab work inputs 575-580
+  590  cd ~
+  591  Desktop/pursuit/module1/Week4/Quiz-Project-07-15-21/8-0-quiz-questions-project/questions
+  592  ls
+  593  touch arrays-and-objects.md
+  594  git status
+  595  git add arrays-and-objects.md
+  596  git status
+  597  git commit -m "Topic focusing on Arrays & Objects for JavaScript"
+  598  git status
+  599  git push
+  600  git status
+  601  git add arrays-and-objects.md
+  602  git status
+  603  git commit -m "Three questions focusing on the Arrays & Objects topic along with answers to said questions to help those learning from a beginners mindset."
+  604  git status
+  605  git push
+  606  git status
+  607  touch Loops.md
+  608  git status
+  609  git add Loops.md
+  610  git status
+  611  git commit -m "Topic focusing on Loops for JavaScript"
+  612  git push
+  613  git status
   614  git add Loops.md
   615  git status
   616  git commit -m "Three questions focusing on the Loops topic along with answers to said questions to help those learning from a beginners mindset."
   617  git push
   618  git status
-  619  cd ~
-  620  Desktop/pursuit/module1/Week4/ReferenceTypes/
-  621  ls
-  622  git clone https://github.com/HectorIlarraza/8-0-reference-types-lab.git
-  623  ls
-  624  cd 8-0-reference-types-lab
-  625  code .
-  626  npm install
-  627  git status
-  628  code .
-  629  npm test
-  630  clear
-  631  npm test
-  632  clear
-  633  npm test
-  634  git status
-  635  git add index.js
-  636  git commit -m "Hector reference types lab completed"
-  637  git push
-  638  git status
+  // Lab work inputs 619 - 638
   639  cd ~
   640  Desktop/pursuit/module1/Week4/Quiz-Project-07-15-21/8-0-quiz-questions-project
   641  ls
@@ -43,51 +79,9 @@ The command above will add the last 50 lines you ran to the end of this file. If
   645  git commit -m "Topic focusing on Git for node JS"
   646  git push
   647  git status
-  648  cd ..
-  649  ls
-  650  mkdir accumulatorPattern
-  651  touch patternSteps.js
-  652  ls
-  653  accumulatorPattern
-  654  touch patternSteps.js
-  655  code .
-  656  node patternSteps.js
-  657  clear
-  658  node patternSteps.js
-  659  clear
-  660  node patternSteps.js
-  661  clear
-  662  node patternSteps.js
-  663  clear
-  664  node patternSteps.js
-  665  clear
-  666  node patternSteps.js
-  667  cd ..
-  668  ls
-  669  accumulatorPattern
-  670  ls
-  671  cd ..
-  672  ReferenceTypes
-  673  ls
-  674  cd ..
-  675  accumulatorPattern
-  676  mkdir 8-0-accumulatorPatternLab
-  677  8-0-accumulatorPatternLab
-  678  git clone https://github.com/HectorIlarraza/8-0-accumulator-pattern-lab.git
-  679  ls
-  680  8-0-accumulator-pattern-lab
-  681  npm install
-  682  code .
-  683  clear
-  684  cd ..
-  685  ls
-  686  cd ..
-  687  ls
-  688  Quiz-Project-07-15-21
-  689  ls
-  690  8-0-quiz-questions-project
-  691  git status
-  692  git add git.md
+  // Lab work inputs 648 - 690
+  691  cd ~
+  692  Desktop/pursuit/module1/Week4/Quiz-Project-07-15-21/8-0-quiz-questions-project/questions  
   693  git add questions/git.md
   694  git status
   695  git commit -m "Three questions focusing on the Git topic along with answers to said questions to help those learning from a beginners mindset."
@@ -109,3 +103,18 @@ The command above will add the last 50 lines you ran to the end of this file. If
   711  git commit -m "CMDL history of my Iterm2 in puts"
   712  git push
   713  cd ..
+  714  history | tail -n 100 >> history.md
+  715  git status
+  716  git add -a
+  717  git add --all
+  718  git commit "updates and history command line inputs"
+  719  git push
+  720  git status
+  721  git commit -m "update changes and history command line inputs markdown created"
+  722  git push
+  723  git status
+  724  cd ..
+  725  ls
+  726  history | tail -n 300 >> history.md
+  727  ls
+  728  8-0-quiz-questions-project
