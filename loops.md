@@ -38,7 +38,7 @@
     
 
 
-* Why would we use a __for__ loop instead of a __while__ loop?
+* ### Why would we use a __for__ loop instead of a __while__ loop?
 
   * A __for__ loop acts just like a __while__ loop the only difference between the two loops, a __for__ loops is shorter. In a __for__ loop we have a variable, a condition or statement that needs to be met or be true, and the updated variable status after an iteration in a parenthesis with two semicolons. 
   

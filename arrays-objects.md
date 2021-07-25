@@ -43,7 +43,7 @@
   ```
 
 
-* Examples of a few common methods (for non-coders != dummies).
+* ### Examples of a few common methods (for non-coders != dummies).
 
   * Below are a few common methods to add or remove elements from the beginning or an end of an array.
   
