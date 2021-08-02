@@ -1,14 +1,16 @@
 # Functions
 
-**1. How would you declare a `Function`?**
+**1. How would you declare a function?**
 ``` js
+```
+Use the "function" keyword to declare a function. What immediately follows is the function name. Immediately after that, inside of parentheses, is one or more parameters. After an opening brace, there is a function body, and an optional return statement, which will give the function a return value. Close the function body with a closing brace.
+```
 function functionName(parameters){
-   //what the function does
 
     return 
 }
 ```
-You write out the word function, give it a name and parameter(s)(parameters go inside the parentheses). Create open and closed curly brackets and in here is the function body. The function body defines what the function does. And you return the desired output.  
+
 
 **2. How do you call a function?**
 
@@ -26,4 +28,4 @@ functionName{}
     
 
 ```
-This function won't work because there's no parentheses, empty or otherwise. Function syntax requires parentheses. (Note: the function is already declared)
+This function won't work because there's no parentheses, empty or otherwise. Function syntax requires parentheses. Curly braces are only used in the function definition, and would also require parentheses for the parameter(s) in that case. 
