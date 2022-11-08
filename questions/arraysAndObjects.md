@@ -17,7 +17,7 @@ fruits[2] = "kiwi";
 ```
 ---
 
-**Q:** What are push() method and splice()method? How could they work in an array? Give an example for each method.
+**Q:** What are push() method and slice()method? How could they work in an array? Give an example for each method.
 ```
 The push() method adds one or more elements to an array and returns the new length of the array.
 
